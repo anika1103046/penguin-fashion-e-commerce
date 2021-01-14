@@ -1,0 +1,68 @@
+.nav-text{
+    font-weight: 700;
+    padding: 10px;
+}
+
+.top-banner{
+    background-color: #FFFBF0;
+    height: 500;
+}
+
+.header-content{
+    padding-left: 100px;
+}
+.name-highlight{
+    color: rgb(255, 196, 0);
+
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+}
+
+h2{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+
+}
+
+h3{
+    color: rgb(255, 197, 5);
+    font-weight: 700;
+}
+
+h4{
+    font-weight: 700;
+    font-size: 25px;
+}
+h5{
+    font-weight: 700;
+}
+
+.penguins-product-card{
+
+    border: 3px solid white;
+   border-radius: 1em;
+   height: 500px;
+
+}
+
+.penguins-card{
+
+    border: 3px solid white;
+   border-radius: 2em;
+
+}
+
+.penguins-card-footer{
+    border: 0;
+    background-color: white;
+    
+}
+
+
+.membership{
+    height: 300px;
+    background-color: #FFFBF0 ;
+    text-align: center;
+}
